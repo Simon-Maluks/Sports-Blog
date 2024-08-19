@@ -1,2 +1,1 @@
-# Sports-Blog
-My Sports Blog
+Open the index file first
